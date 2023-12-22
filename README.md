@@ -23,22 +23,22 @@ ast
 
 2. **Getting Started**
 
-    + Training
-        ```python
-        python train.py \
-        --batch-size 64 \
-        --epochs 30 \
-        --lr 1e-4 \
-        --gpu 0 \
-        --checkpoint APL_dir \
-        --checkpoint_file checkpoint01 \
-        --save_model_flag True \
-        ```
+ + Training
+     ```python
+     python train.py \
+     --batch-size 64 \
+     --epochs 30 \
+     --lr 1e-4 \
+     --gpu 0 \
+     --checkpoint APL_dir \
+     --checkpoint_file checkpoint01 \
+     --save_model_flag True \
+     ```
 
-    + Testing
-        ```python
-        python test.py
-        ```
+ + Testing
+     ```python
+     python test.py
+     ```
 
 3. **Citing Us**
 
