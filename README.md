@@ -4,12 +4,12 @@ Authors: [Zhangbin Li](https://github.com/zhangbin-ai), Dan Guo, [Jinxing Zhou](
 ---
 ## Requirements
 
-```python
-python3.7 +
-pytorch1.7.1
-numpy
-ast
-```
+   ```python
+   python3.7 +
+   pytorch1.7.1
+   numpy
+   ast
+   ```
 
 
 ## Usage
