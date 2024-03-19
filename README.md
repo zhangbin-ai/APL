@@ -44,7 +44,14 @@ Authors: [Zhangbin Li](https://github.com/zhangbin-ai), Dan Guo, [Jinxing Zhou](
 
     If you find this work useful, please consider citing it.
     ```
-    Coming soon.
+    @misc{li2023objectaware,
+      title={Object-aware Adaptive-Positivity Learning for Audio-Visual Question Answering}, 
+      author={Zhangbin Li and Dan Guo and Jinxing Zhou and Jing Zhang and Meng Wang},
+      year={2023},
+      eprint={2312.12816},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+   }
     ```
 
 4. **Acknowledgement**
